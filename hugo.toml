@@ -1,0 +1,53 @@
+baseURL = 'https://garrynet.co.uk/'
+languageCode = 'en-gb'
+title = "blog.garrynet.co.uk"
+theme = 'risotto'
+author = "Garry"
+sectionPagesMenu = "main"
+
+copyright = "Made with ❤️ by [Garry](https://github.com/garrywashere)"
+
+[params]
+noindex = false
+
+[params.theme]
+palette = "tokyo-night-dark"
+
+[params.about]
+title = "Garry's Blog"
+description = "I trick rocks into thinking"
+logo = "👨🏻‍💻"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:contact@garrynet.co.uk"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/garrywashere"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-instagram"
+title = "Instagram"
+url = "https://instagram.com/garrywashere"
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "gallery"
+    name = "Gallery"
+    url = "https://gallery.garrynet.co.uk"
+    weight = 20
+
+[markup]
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true

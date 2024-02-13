@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blog.garrynet.co.uk</title>
+    <link>https://garrynet.co.uk/</link>
+    <description>Recent content on blog.garrynet.co.uk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>Made with ❤️ by [Garry](https://github.com/garrywashere)</copyright>
+    <lastBuildDate>Mon, 12 Feb 2024 23:56:18 +0000</lastBuildDate>
+    <atom:link href="https://garrynet.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://garrynet.co.uk/about/</link>
+      <pubDate>Mon, 12 Feb 2024 23:56:18 +0000</pubDate>
+      <guid>https://garrynet.co.uk/about/</guid>
+      <description>Coming Soon. </description>
+    </item>
+    <item>
+      <title>Hello World</title>
+      <link>https://garrynet.co.uk/posts/hello-world/</link>
+      <pubDate>Mon, 12 Feb 2024 23:53:09 +0000</pubDate>
+      <guid>https://garrynet.co.uk/posts/hello-world/</guid>
+      <description>Time to go static&amp;hellip; WordPress is a little too overkill for my needs and a little slow for my liking. So, I decided to go static 🙂.</description>
+    </item>
+  </channel>
+</rss>
