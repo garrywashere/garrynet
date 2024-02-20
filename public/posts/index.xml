@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Made with ❤️ by [Garry](https://github.com/garrywashere)</copyright>
-    <lastBuildDate>Mon, 12 Feb 2024 23:53:09 +0000</lastBuildDate>
-    <atom:link href="https://garrynet.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Feb 2024 14:56:30 +0000</lastBuildDate><atom:link href="https://garrynet.co.uk/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Websites</title>
+      <link>https://garrynet.co.uk/posts/websites/</link>
+      <pubDate>Tue, 20 Feb 2024 14:56:30 +0000</pubDate>
+      
+      <guid>https://garrynet.co.uk/posts/websites/</guid>
+      <description>Everything broken I really need to step up my personal website game, I keep cocking it up. As much as I love the simplicity and speed of static websites, I either need to find a better template, make my own (no) or go back to wordpress&amp;hellip;</description>
+    </item>
+    
     <item>
       <title>Hello World</title>
       <link>https://garrynet.co.uk/posts/hello-world/</link>
       <pubDate>Mon, 12 Feb 2024 23:53:09 +0000</pubDate>
+      
       <guid>https://garrynet.co.uk/posts/hello-world/</guid>
       <description>Time to go static&amp;hellip; WordPress is a little too overkill for my needs and a little slow for my liking. So, I decided to go static 🙂.</description>
     </item>
+    
   </channel>
 </rss>

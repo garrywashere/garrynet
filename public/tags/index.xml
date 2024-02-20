@@ -6,7 +6,6 @@
     <description>Recent content in Tags on blog.garrynet.co.uk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>Made with ❤️ by [Garry](https://github.com/garrywashere)</copyright>
-    <atom:link href="https://garrynet.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Made with ❤️ by [Garry](https://github.com/garrywashere)</copyright><atom:link href="https://garrynet.co.uk/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
